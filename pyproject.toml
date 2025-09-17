@@ -10,5 +10,6 @@ dependencies = [
     "langchain>=0.3.27",
     "langchain-google-genai>=2.1.12",
     "langchain-ollama>=0.3.8",
+    "langchain-tavily>=0.2.11",
     "python-dotenv>=1.1.1",
 ]
